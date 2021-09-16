@@ -1,0 +1,5 @@
+document_title
+bol_number
+shipper_address
+receiver_address
+signature
