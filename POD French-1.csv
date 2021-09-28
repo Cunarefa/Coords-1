@@ -442,7 +442,7 @@ Sans titre 33 (002).tif,receiver_address,Destination: Somavrac Trois Rivieres,32
 Sans titre 33 (002).tif,signature,,,,,
 Sans titre 33 (002).tif,is_signed,FALSE,,,,
 Sans titre 33.pdf,document_title,CARRIER'S COPY - COPIE DU TRANSPORTEUR,2105,41,1337,165
-Sans titre 33.pdf,bol_number,,,,,
+Sans titre 33.pdf,bol_number,CUSTOMER P.O. NO. / BON DE COMMANDE DE CLIENT,717,399,834,259
 Sans titre 33.pdf,shipper_address,SHIPPED FROM/EXPEDIE DE 0029 Logistec,123,185,1115,216
 Sans titre 33.pdf,receiver_address,CUSTOMER / CLIENT LES NIVELAGES FORESTIERS LB IN LES NIVELAGES FORESTIERS LB IN CONTRAT LEBEL-SUR-QUEVILLON LEBEL-SUR-QUEVIQLON PQ J0Y 1X0,,,,
 Sans titre 33.pdf,signature,RECEIVED BY / RECU PAR,1768,834,969,282
@@ -1206,7 +1206,7 @@ LDS13494132 PB88477.tif.pdf,is_signed,TRUE,,,,
 Syn24857509.tif,document_title,Connaissement - Bill of Lading,585,35,547,87
 Syn24857509.tif,bol_number,Delivery reference No./No de reference 4S-80085332,736,222,482,76
 Syn24857509.tif,shipper_address,Shipper / Expéditeur Albecour inc. 144565157RM0001 380 St-Antoine Street West Suite 3000 MONTREAL QC H2Y 3X7 CANADA,76,406,723,181
-Syn24857509.tif,receiver_address,"Consignee / Consignatarie (Destination) Hydro Extrusion Canada , inc. 7 Alloy Court NORTH YORK, TORONTO ON M9M 3A2 CANADA",845,390,614,200
+Syn24857509.tif,receiver_address,"Consignee / Consignatarie (Destination) Hydro Extrusion Canada, inc. 7 Alloy Court NORTH YORK, TORONTO ON M9M 3A2 CANADA",845,390,614,200
 Syn24857509.tif,signature,Consignee's signature / Signature du consignataire,,,,
 Syn24857509.tif,is_signed,FALSE,,,,
 Syn25353156.tif,document_title,CONNAISSEMENT BILL OF LADING,623,32,390,100
